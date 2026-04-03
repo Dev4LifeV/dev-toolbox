@@ -12,12 +12,11 @@ Simple developer tools. One folder per tool. Zero dependencies. Just run.
 
 - **One folder, one tool.** Each tool is self-contained.
 - **Zero dependencies.** Nothing to install. Just `node` (or the relevant runtime).
-- **Solves one thing well.** No Swiss Army knives. If it needs a README longer than a screen, it's too complex.
 
 ## Usage
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dev-toolbox.git
+git clone https://github.com/Dev4LifeV/dev-toolbox.git
 cd dev-toolbox
 
 # Run any tool directly
